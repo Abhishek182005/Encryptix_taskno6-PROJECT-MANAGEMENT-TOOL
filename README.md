@@ -3,7 +3,7 @@ This is my 5th task for the Encryptix internship, where I developed a project ma
 This project management tool allows you to create projects, assign tasks, and drag tasks between requested, todo, in-progress, and done sections.
 <br>It also includes features such as deadlines and more. 
 <br>
-The website is working in localhost version only. For website click here. In the website problem is arising so localhost code is provided.
+The website is working in localhost version only. In the website problem is arising so localhost code is provided.
 for website repository 
 <a href="https://github.com/Abhishek182005/PROJECT-MANAGEMENT-TOOL">Click here</a>
 
